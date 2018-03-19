@@ -7,5 +7,6 @@ namespace vjezba
 {
     class NewClass
     {
+        Console.WriteLine("promjena");
     }
 }
